@@ -1,5 +1,5 @@
 # Spark Tropo
-This is a simple application that integrates Tropo with Spark. When a user texts the Tropo number, their text is posted to a specific Spark room. This app is an introductory tutorial to the Tropo Scripting API and Spark Web API. 
+This is a simple application that integrates Tropo with Spark. When a user texts the Tropo number, their text is posted to a specific Spark room. This app is a introductory tutorial to the Tropo Scripting API and Spark Web API. 
 
 ## Setup repo
 1. Clone this repo onto your machine
